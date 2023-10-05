@@ -1,0 +1,27 @@
+body{
+    color: rgb(148, 142, 236);
+    background-color: rgb(30, 35, 63);
+    font-family: Geneva, Tahoma, sans-serif;
+}
+.login_form{
+    margin-top:70px;
+}
+.submit_button{
+    color: rgb(148, 142, 236);
+    background-color: rgb(30, 35, 63);
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+}
+.submit_button:hover{
+    color:rgb(30, 35, 63);
+    background-color: rgb(148, 142, 236);    
+}
+.input_box{
+    border-radius:30px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+}
+
